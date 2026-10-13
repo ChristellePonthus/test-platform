@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Académie Nocturne"},{"path":"/campus","title":"Mon campus"},{"path":"/campus/lecon/:lessonId","title":"Leçon"},{"path":"/achat/succes","title":"Paiement confirmé"},{"path":"/achat/annule","title":"Paiement annulé"}]}
